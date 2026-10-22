@@ -8,3 +8,5 @@ Solutions for the University of Helsinki DevOps with Kubernetes course.
 |---|---|---|
 | 1.1 | Getting started — Log output | [Source at release 1.1](https://github.com/jeetjawale/devops-with-kubernetes-2026/tree/1.1/log-output) |
 | 1.2 | The project, step 1 — Todo app | [Source at release 1.2](https://github.com/jeetjawale/devops-with-kubernetes-2026/tree/1.2/todo-app) |
+| 1.3 | Declarative approach — Log output | [Source at release 1.3](https://github.com/jeetjawale/devops-with-kubernetes-2026/tree/1.3/log-output) |
+| 1.4 | The project, step 2 — Todo app | [Source at release 1.4](https://github.com/jeetjawale/devops-with-kubernetes-2026/tree/1.4/todo-app) |
